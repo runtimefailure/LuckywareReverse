@@ -167,6 +167,8 @@ rule Luckyware_C2_Indicators
         $d20 = "krispykreme.top" nocase
         $d21 = "vcc-redistrbutable.help" nocase
         $d22 = "i-slept-with-ur.mom" nocase
+        $d23 = "luckyware.cy" nocase
+        $d24 = "vex.cy" nocase
 
         /* From what i understand those are used for downloading. */
         $path1 = "/Stb/Retev.php" nocase // configuration downloader
